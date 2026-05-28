@@ -1,6 +1,6 @@
 # Pride Flags
 
-a few hand written SVGs of pride flags :3
+a few hand written SVGs of pride flags :3, the colors aren't a 100% match
 
 You can find the SVGs in the `./svg` folder.
 
