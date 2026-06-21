@@ -1,0 +1,56 @@
+<!-- author: Rye (itsrye.dev) -->
+<!-- Licensed under the CC0 1.0 Universal license. -->
+
+<svg version="1.1"
+    width="500" height="300"
+    xmlns="http://www.w3.org/2000/svg">
+    <title>Lesbifluid Flag</title>
+    <rect
+        width="50%"
+        height="60"
+        y="0"
+        fill="HotPink"
+        class="genderfluid"
+    />
+    <rect
+        width="50%"
+        height="60"
+        y="60"
+        fill="White"
+        class="genderfluid"
+    />
+    <rect
+        width="50%"
+        height="60"
+        y="120"
+        fill="RebeccaPurple"
+        class="genderfluid"
+    />
+    <rect
+        width="50%"
+        height="60"
+        y="180"
+        fill="#3B3C36"
+        class="genderfluid"
+    />
+    <rect
+        width="50%"
+        height="60"
+        y="240"
+        fill="#353EB6"
+        class="genderfluid"
+    />
+    <rect width="50%" x="50%" height="42.857142857142854" y="0" fill="#D52D00" class="lesbian" />
+    <rect width="50%" x="50%" height="42.857142857142854" y="42.857142857142854" fill="#EF7627"
+        class="lesbian" />
+    <rect width="50%" x="50%" height="42.857142857142854" y="85.71428571428571" fill="#FF9A56"
+        class="lesbian" />
+    <rect width="50%" x="50%" height="42.857142857142854" y="128.57142857142856" fill="White"
+        class="lesbian" />
+    <rect width="50%" x="50%" height="42.857142857142854" y="171.42857142857143" fill="HotPink"
+        class="lesbian" />
+    <rect width="50%" x="50%" height="42.857142857142854" y="214.28571428571428"
+        fill="PaleVioletRed" class="lesbian" />
+    <rect width="50%" x="50%" height="42.857142857142854" y="257.1428571428571"
+        fill="MediumVioletRed" class="lesbian" />
+</svg>
