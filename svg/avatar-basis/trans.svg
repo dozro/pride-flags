@@ -15,11 +15,6 @@
             <stop offset="75%" stop-color="HotPink" />
             <stop offset="100%" stop-color="DeepSkyBlue" />
         </linearGradient>
-        <radialGradient id="FocusVignette" cx="50%" cy="50%" r="75%">
-            <stop offset="0%" stop-color="black" stop-opacity="0" />
-            <stop offset="70%" stop-color="black" stop-opacity="0" />
-            <stop offset="100%" stop-color="black" stop-opacity="0.45" />
-        </radialGradient>
         <filter id="blurMe">
             <feGaussianBlur in="SourceGraphic" stdDeviation="40" />
         </filter>
@@ -31,6 +26,11 @@
             <feTile in="map" result="tile" />
             <feDisplacementMap in="smoothed" in2="tile" scale="30" />
         </filter>
+        <radialGradient id="FocusVignette" cx="50%" cy="50%" r="75%">
+            <stop offset="0%" stop-color="black" stop-opacity="0" />
+            <stop offset="70%" stop-color="black" stop-opacity="0" />
+            <stop offset="100%" stop-color="black" stop-opacity="0.45" />
+        </radialGradient>
         <radialGradient id="AvatarGlow" cx="50%" cy="50%" r="30%">
             <stop offset="0%" stop-color="white" stop-opacity="0.25" />
             <stop offset="100%" stop-color="white" stop-opacity="0" />
